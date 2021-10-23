@@ -5,6 +5,5 @@
 
 //console.log(result);
 
-const answers = [];
-answers[0] = prompt("Вам есть 18?", "");
-document.write(answers);
+const user = 'backdoor';
+console.log (`Привет`);
